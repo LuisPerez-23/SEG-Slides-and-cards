@@ -13,12 +13,13 @@ import {
   IonToolbar
 } from '@ionic/angular';
 import {HeaderComponent} from "../../components/header/header.component";
+import {RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-inicio',
   templateUrl: './inicio.page.html',
   styleUrls: ['./inicio.page.scss'],
-  imports: [IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, FormsModule, HeaderComponent, IonList, IonItem, IonFab, IonFabButton, IonIcon, IonFabList]
+  imports: [IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, FormsModule, HeaderComponent, IonList, IonItem, IonFab, IonFabButton, IonIcon, IonFabList, RouterLink]
 })
 export class InicioPage implements OnInit {
  datos=Array(100);
