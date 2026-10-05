@@ -1,0 +1,7 @@
+{
+  "name": "Slidesandcards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
