@@ -1,0 +1,205 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "_id": "6ab97593b92d804f53226af0",
+      "name": "Cessna 172 Skyhawk",
+      "year": 2018,
+      "model": "172N",
+      "motor": "Lycoming IO-360 180CV",
+      "price": 435000,
+      "createdAt": "2026-09-27T19:59:15.858Z",
+      "updatedAt": "2026-09-27T19:59:15.858Z"
+    },
+    {
+      "_id": "6ab9759fb92d804f53226af1",
+      "name": "Cirrus SR22 G6",
+      "year": 2021,
+      "model": "SR22",
+      "motor": "Continental IO-550-N 310CV",
+      "price": 890000,
+      "createdAt": "2026-09-27T19:59:27.026Z",
+      "updatedAt": "2026-09-27T19:59:27.026Z"
+    },
+    {
+      "_id": "6ab975a7b92d804f53226af2",
+      "name": "Piper PA-28 Archer",
+      "year": 2019,
+      "model": "Archer DX",
+      "motor": "Continental CD-155 155CV",
+      "price": 410000,
+      "createdAt": "2026-09-27T19:59:35.285Z",
+      "updatedAt": "2026-09-27T19:59:35.285Z"
+    },
+    {
+      "_id": "6ab975b4b92d804f53226af3",
+      "name": "Diamond DA40 NG",
+      "year": 2020,
+      "model": "DA40",
+      "motor": "Austro Engine AE 300 168CV",
+      "price": 485000,
+      "createdAt": "2026-09-27T19:59:48.735Z",
+      "updatedAt": "2026-09-27T19:59:48.735Z"
+    },
+    {
+      "_id": "6ab975beb92d804f53226af4",
+      "name": "Beechcraft Bonanza G36",
+      "year": 2022,
+      "model": "Bonanza",
+      "motor": "Continental IO-550-B 300CV",
+      "price": 1150000,
+      "createdAt": "2026-09-27T19:59:58.612Z",
+      "updatedAt": "2026-09-27T19:59:58.612Z"
+    },
+    {
+      "_id": "6ab975c8b92d804f53226af5",
+      "name": "Pilatus PC-12 NGX",
+      "year": 2021,
+      "model": "PC-12",
+      "motor": "Pratt & Whitney PT6E-67XP",
+      "price": 5400000,
+      "createdAt": "2026-09-27T20:00:08.813Z",
+      "updatedAt": "2026-09-27T20:00:08.813Z"
+    },
+    {
+      "_id": "6ab975d3b92d804f53226af6",
+      "name": "Daher TBM 940",
+      "year": 2020,
+      "model": "TBM",
+      "motor": "Pratt & Whitney PT6A-66D",
+      "price": 4150000,
+      "createdAt": "2026-09-27T20:00:19.751Z",
+      "updatedAt": "2026-09-27T20:00:19.751Z"
+    },
+    {
+      "_id": "6ab975ddb92d804f53226af7",
+      "name": "Piper PA-44 Seminole",
+      "year": 2018,
+      "model": "Seminole",
+      "motor": "Doble Lycoming O-360 180CV",
+      "price": 750000,
+      "createdAt": "2026-09-27T20:00:29.088Z",
+      "updatedAt": "2026-09-27T20:00:29.088Z"
+    },
+    {
+      "_id": "6ab975e6b92d804f53226af8",
+      "name": "Beechcraft Baron G58",
+      "year": 2019,
+      "model": "Baron",
+      "motor": "Doble Continental IO-550-C",
+      "price": 1650000,
+      "createdAt": "2026-09-27T20:00:38.679Z",
+      "updatedAt": "2026-09-27T20:00:38.679Z"
+    },
+    {
+      "_id": "6ab975f0b92d804f53226af9",
+      "name": "Diamond DA62",
+      "year": 2021,
+      "model": "DA62",
+      "motor": "Doble Austro Engine AE 330",
+      "price": 1350000,
+      "createdAt": "2026-09-27T20:00:48.503Z",
+      "updatedAt": "2026-09-27T20:00:48.503Z"
+    },
+    {
+      "_id": "6ab975f9b92d804f53226afa",
+      "name": "Cessna Citation CJ3+",
+      "year": 2017,
+      "model": "Citation",
+      "motor": "Doble Williams FJ44-3A",
+      "price": 8500000,
+      "createdAt": "2026-09-27T20:00:57.945Z",
+      "updatedAt": "2026-09-27T20:00:57.945Z"
+    },
+    {
+      "_id": "6ab97601b92d804f53226afb",
+      "name": "Embraer Phenom 300E",
+      "year": 2022,
+      "model": "Phenom",
+      "motor": "Doble Pratt & Whitney PW535E1",
+      "price": 10250000,
+      "createdAt": "2026-09-27T20:01:05.611Z",
+      "updatedAt": "2026-09-27T20:01:05.611Z"
+    },
+    {
+      "_id": "6ab97609b92d804f53226afc",
+      "name": "HondaJet Elite S",
+      "year": 2021,
+      "model": "HA-420",
+      "motor": "Doble GE Honda HF120",
+      "price": 5500000,
+      "createdAt": "2026-09-27T20:01:13.466Z",
+      "updatedAt": "2026-09-27T20:01:13.466Z"
+    },
+    {
+      "_id": "6ab97612b92d804f53226afd",
+      "name": "Cirrus Vision Jet SF50",
+      "year": 2023,
+      "model": "G2+",
+      "motor": "Williams International FJ33-5A",
+      "price": 3150000,
+      "createdAt": "2026-09-27T20:01:22.703Z",
+      "updatedAt": "2026-09-27T20:01:22.703Z"
+    },
+    {
+      "_id": "6ab9761cb92d804f53226afe",
+      "name": "Bombardier Challenger 350",
+      "year": 2019,
+      "model": "Challenger",
+      "motor": "Doble Honeywell HTF7350",
+      "price": 15500000,
+      "createdAt": "2026-09-27T20:01:32.833Z",
+      "updatedAt": "2026-09-27T20:01:32.833Z"
+    },
+    {
+      "_id": "6ab97624b92d804f53226aff",
+      "name": "Gulfstream G650ER",
+      "year": 2020,
+      "model": "G650",
+      "motor": "Doble Rolls-Royce BR725",
+      "price": 65000000,
+      "createdAt": "2026-09-27T20:01:40.627Z",
+      "updatedAt": "2026-09-27T20:01:40.627Z"
+    },
+    {
+      "_id": "6ab9762cb92d804f53226b00",
+      "name": "American Champion Citabria",
+      "year": 2016,
+      "model": "7GCBC",
+      "motor": "Lycoming O-320-B2B 150CV",
+      "price": 185000,
+      "createdAt": "2026-09-27T20:01:48.884Z",
+      "updatedAt": "2026-09-27T20:01:48.884Z"
+    },
+    {
+      "_id": "6ab97634b92d804f53226b01",
+      "name": "Vans RV-10",
+      "year": 2020,
+      "model": "RV",
+      "motor": "Lycoming IO-540 260CV",
+      "price": 320000,
+      "createdAt": "2026-09-27T20:01:56.880Z",
+      "updatedAt": "2026-09-27T20:01:56.880Z"
+    },
+    {
+      "_id": "6ab9763db92d804f53226b02",
+      "name": "CubCrafters XCub",
+      "year": 2022,
+      "model": "CCX-2000",
+      "motor": "Lycoming CC390 215CV",
+      "price": 380000,
+      "createdAt": "2026-09-27T20:02:05.240Z",
+      "updatedAt": "2026-09-27T20:02:05.240Z"
+    },
+    {
+      "_id": "6ab97645b92d804f53226b03",
+      "name": "Airbus A320neo",
+      "year": 2022,
+      "model": "A320",
+      "motor": "Doble CFM LEAP-1A",
+      "price": 110600000,
+      "createdAt": "2026-09-27T20:02:13.421Z",
+      "updatedAt": "2026-09-27T20:02:13.421Z"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "_id": "6ab974c4b92d804f53226adc",
+      "name": "Volkswagen Golf GTI",
+      "year": 2021,
+      "model": "Mk8",
+      "motor": "2.0 TSI 245CV",
+      "price": 38500,
+      "createdAt": "2026-09-27T19:55:48.386Z",
+      "updatedAt": "2026-09-27T19:55:48.386Z"
+    },
+    {
+      "_id": "6ab974ccb92d804f53226add",
+      "name": "Toyota GR Yaris",
+      "year": 2022,
+      "model": "RZ",
+      "motor": "1.6 Turbo 261CV",
+      "price": 34900,
+      "createdAt": "2026-09-27T19:55:56.076Z",
+      "updatedAt": "2026-09-27T19:55:56.076Z"
+    },
+    {
+      "_id": "6ab974d6b92d804f53226ade",
+      "name": "BMW M3 Competition",
+      "year": 2023,
+      "model": "G80",
+      "motor": "3.0 Biturbo 510CV",
+      "price": 115000,
+      "createdAt": "2026-09-27T19:56:06.135Z",
+      "updatedAt": "2026-09-27T19:56:06.135Z"
+    },
+    {
+      "_id": "6ab974ddb92d804f53226adf",
+      "name": "Audi RS6 Avant",
+      "year": 2021,
+      "model": "C8",
+      "motor": "4.0 V8 TFSI 600CV",
+      "price": 135000,
+      "createdAt": "2026-09-27T19:56:13.242Z",
+      "updatedAt": "2026-09-27T19:56:13.242Z"
+    },
+    {
+      "_id": "6ab974e4b92d804f53226ae0",
+      "name": "Porsche 911 Carrera S",
+      "year": 2020,
+      "model": "992",
+      "motor": "3.0 Boxer 450CV",
+      "price": 129000,
+      "createdAt": "2026-09-27T19:56:20.239Z",
+      "updatedAt": "2026-09-27T19:56:20.239Z"
+    },
+    {
+      "_id": "6ab974ecb92d804f53226ae1",
+      "name": "Ford Mustang GT",
+      "year": 2019,
+      "model": "Fastback",
+      "motor": "5.0 V8 450CV",
+      "price": 48500,
+      "createdAt": "2026-09-27T19:56:28.636Z",
+      "updatedAt": "2026-09-27T19:56:28.636Z"
+    },
+    {
+      "_id": "6ab974f5b92d804f53226ae2",
+      "name": "Ford Mustang GT",
+      "year": 2019,
+      "model": "Fastback",
+      "motor": "5.0 V8 450CV",
+      "price": 48500,
+      "createdAt": "2026-09-27T19:56:37.750Z",
+      "updatedAt": "2026-09-27T19:56:37.750Z"
+    },
+    {
+      "_id": "6ab974feb92d804f53226ae3",
+      "name": "Mercedes-AMG A 45 S",
+      "year": 2021,
+      "model": "W177",
+      "motor": "2.0 Turbo 421CV",
+      "price": 68900,
+      "createdAt": "2026-09-27T19:56:46.651Z",
+      "updatedAt": "2026-09-27T19:56:46.651Z"
+    },
+    {
+      "_id": "6ab97507b92d804f53226ae4",
+      "name": "Renault Clio Williams",
+      "year": 1994,
+      "model": "Phase 1",
+      "motor": "2.0 16V 147CV",
+      "price": 24500,
+      "createdAt": "2026-09-27T19:56:55.377Z",
+      "updatedAt": "2026-09-27T19:56:55.377Z"
+    },
+    {
+      "_id": "6ab9750fb92d804f53226ae5",
+      "name": "Peugeot 205 GTI",
+      "year": 1988,
+      "model": "1.9",
+      "motor": "1.9 Atmosférico 130CV",
+      "price": 21000,
+      "createdAt": "2026-09-27T19:57:03.758Z",
+      "updatedAt": "2026-09-27T19:57:03.758Z"
+    },
+    {
+      "_id": "6ab97517b92d804f53226ae6",
+      "name": "Honda Civic Type R",
+      "year": 2023,
+      "model": "FL5",
+      "motor": "2.0 VTEC Turbo 329CV",
+      "price": 54800,
+      "createdAt": "2026-09-27T19:57:11.474Z",
+      "updatedAt": "2026-09-27T19:57:11.474Z"
+    },
+    {
+      "_id": "6ab9751fb92d804f53226ae7",
+      "name": "Subaru Impreza WRX STI",
+      "year": 2004,
+      "model": "Blobeye",
+      "motor": "2.5 Boxer Turbo 265CV",
+      "price": 32000,
+      "createdAt": "2026-09-27T19:57:19.225Z",
+      "updatedAt": "2026-09-27T19:57:19.225Z"
+    },
+    {
+      "_id": "6ab97527b92d804f53226ae8",
+      "name": "Alfa Romeo Giulia Quadrifoglio",
+      "year": 2020,
+      "model": "952",
+      "motor": "2.9 V6 Biturbo 510CV",
+      "price": 75000,
+      "createdAt": "2026-09-27T19:57:27.557Z",
+      "updatedAt": "2026-09-27T19:57:27.557Z"
+    },
+    {
+      "_id": "6ab9752db92d804f53226ae9",
+      "name": "Tesla Model 3 Long Range",
+      "year": 2023,
+      "model": "Dual Motor",
+      "motor": "Eléctrico 498CV",
+      "price": 49990,
+      "createdAt": "2026-09-27T19:57:33.727Z",
+      "updatedAt": "2026-09-27T19:57:33.727Z"
+    },
+    {
+      "_id": "6ab97535b92d804f53226aea",
+      "name": "Nissan GT-R Nismo",
+      "year": 2018,
+      "model": "R35",
+      "motor": "3.8 V6 Biturbo 600CV",
+      "price": 145000,
+      "createdAt": "2026-09-27T19:57:41.340Z",
+      "updatedAt": "2026-09-27T19:57:41.340Z"
+    },
+    {
+      "_id": "6ab9753db92d804f53226aeb",
+      "name": "Seat León Cupra",
+      "year": 2019,
+      "model": "Cupra 300",
+      "motor": "2.0 TSI 300CV",
+      "price": 27500,
+      "createdAt": "2026-09-27T19:57:49.633Z",
+      "updatedAt": "2026-09-27T19:57:49.633Z"
+    },
+    {
+      "_id": "6ab97544b92d804f53226aec",
+      "name": "Land Rover Defender 110",
+      "year": 2022,
+      "model": "L663",
+      "motor": "3.0 D250 Mild Hybrid",
+      "price": 79000,
+      "createdAt": "2026-09-27T19:57:56.902Z",
+      "updatedAt": "2026-09-27T19:57:56.902Z"
+    },
+    {
+      "_id": "6ab9754fb92d804f53226aed",
+      "name": "Volvo V60 Polestar Engineered",
+      "year": 2021,
+      "model": "Z",
+      "motor": "2.0 T8 Plug-in Hybrid 405CV",
+      "price": 61200,
+      "createdAt": "2026-09-27T19:58:07.023Z",
+      "updatedAt": "2026-09-27T19:58:07.023Z"
+    },
+    {
+      "_id": "6ab97556b92d804f53226aee",
+      "name": "Fiat 500 Abarth 595",
+      "year": 2020,
+      "model": "Competizione",
+      "motor": "1.4 T-Jet 180CV",
+      "price": 22400,
+      "createdAt": "2026-09-27T19:58:14.991Z",
+      "updatedAt": "2026-09-27T19:58:14.991Z"
+    },
+    {
+      "_id": "6ab9755eb92d804f53226aef",
+      "name": "Toyota Supra GR",
+      "year": 2021,
+      "model": "A90",
+      "motor": "3.0 Turbo 340CV",
+      "price": 65500,
+      "createdAt": "2026-09-27T19:58:22.935Z",
+      "updatedAt": "2026-09-27T19:58:22.935Z"
+    }
+  ]
+}

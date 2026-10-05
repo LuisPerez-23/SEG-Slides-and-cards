@@ -1,0 +1,205 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "_id": "6ab9722fb92d804f53226ac8",
+      "name": "Beneteau Oceanis 38.1",
+      "year": 2018,
+      "model": "Oceanis",
+      "motor": "Yanmar 40CV",
+      "price": 165000,
+      "createdAt": "2026-09-27T19:44:47.929Z",
+      "updatedAt": "2026-09-27T19:44:47.929Z"
+    },
+    {
+      "_id": "6ab97238b92d804f53226ac9",
+      "name": "Jeanneau Sun Odyssey 410",
+      "year": 2021,
+      "model": "Sun Odyssey",
+      "motor": "Yanmar 45CV",
+      "price": 245000.5,
+      "createdAt": "2026-09-27T19:44:56.783Z",
+      "updatedAt": "2026-09-27T19:44:56.783Z"
+    },
+    {
+      "_id": "6ab9726fb92d804f53226aca",
+      "name": "Bavaria Cruiser 34",
+      "year": 2019,
+      "model": "Cruiser",
+      "motor": "Volvo Penta 28CV",
+      "price": 128000,
+      "createdAt": "2026-09-27T19:45:51.040Z",
+      "updatedAt": "2026-09-27T19:45:51.040Z"
+    },
+    {
+      "_id": "6ab9727ab92d804f53226acb",
+      "name": "Lagoon 42 Catamarán",
+      "year": 2020,
+      "model": "Lagoon",
+      "motor": "Doble Yanmar 57CV",
+      "price": 450000,
+      "createdAt": "2026-09-27T19:46:02.702Z",
+      "updatedAt": "2026-09-27T19:46:02.702Z"
+    },
+    {
+      "_id": "6ab97283b92d804f53226acc",
+      "name": "Boston Whaler 270 Dauntless",
+      "year": 2022,
+      "model": "Dauntless",
+      "motor": "Mercury Verado 300CV",
+      "price": 215000,
+      "createdAt": "2026-09-27T19:46:11.010Z",
+      "updatedAt": "2026-09-27T19:46:11.010Z"
+    },
+    {
+      "_id": "6ab9728ab92d804f53226acd",
+      "name": "Sea Ray Sundancer 320",
+      "year": 2021,
+      "model": "Sundancer",
+      "motor": "Doble MerCruiser 4.5L",
+      "price": 290000,
+      "createdAt": "2026-09-27T19:46:18.389Z",
+      "updatedAt": "2026-09-27T19:46:18.389Z"
+    },
+    {
+      "_id": "6ab97292b92d804f53226ace",
+      "name": "Quicksilver Activ 805 Open",
+      "year": 2023,
+      "model": "Activ",
+      "motor": "Mercury 300CV V8",
+      "price": 78500,
+      "createdAt": "2026-09-27T19:46:26.178Z",
+      "updatedAt": "2026-09-27T19:46:26.178Z"
+    },
+    {
+      "_id": "6ab9729ab92d804f53226acf",
+      "name": "Azimut 55 Flybridge",
+      "year": 2017,
+      "model": "Flybridge",
+      "motor": "Doble MAN 800CV",
+      "price": 950000,
+      "createdAt": "2026-09-27T19:46:34.698Z",
+      "updatedAt": "2026-09-27T19:46:34.698Z"
+    },
+    {
+      "_id": "6ab972a6b92d804f53226ad0",
+      "name": "Sunseeker Manhattan 52",
+      "year": 2018,
+      "model": "Manhattan",
+      "motor": "Doble Volvo D11-725",
+      "price": 1150000,
+      "createdAt": "2026-09-27T19:46:46.047Z",
+      "updatedAt": "2026-09-27T19:46:46.047Z"
+    },
+    {
+      "_id": "6ab972b3b92d804f53226ad1",
+      "name": "Ferretti 670",
+      "year": 2019,
+      "model": "Ferretti",
+      "motor": "Doble MAN V8 1200CV",
+      "price": 1850000,
+      "createdAt": "2026-09-27T19:46:59.615Z",
+      "updatedAt": "2026-09-27T19:46:59.615Z"
+    },
+    {
+      "_id": "6ab972bdb92d804f53226ad2",
+      "name": "Riva Rivamare",
+      "year": 2020,
+      "model": "Rivamare",
+      "motor": "Volvo Penta D6-400",
+      "price": 820000,
+      "createdAt": "2026-09-27T19:47:09.159Z",
+      "updatedAt": "2026-09-27T19:47:09.159Z"
+    },
+    {
+      "_id": "6ab972c7b92d804f53226ad3",
+      "name": "Jeanneau Cap Camarat 7.5 CC",
+      "year": 2022,
+      "model": "Cap Camarat",
+      "motor": "Yamaha F225",
+      "price": 64900,
+      "createdAt": "2026-09-27T19:47:19.543Z",
+      "updatedAt": "2026-09-27T19:47:19.543Z"
+    },
+    {
+      "_id": "6ab972d1b92d804f53226ad4",
+      "name": "Dufour 430 Grand Large",
+      "year": 2020,
+      "model": "Grand Large",
+      "motor": "Volvo Penta 50CV",
+      "price": 230000,
+      "createdAt": "2026-09-27T19:47:29.325Z",
+      "updatedAt": "2026-09-27T19:47:29.325Z"
+    },
+    {
+      "_id": "6ab972d9b92d804f53226ad5",
+      "name": "Hanse 458",
+      "year": 2021,
+      "model": "Hanse",
+      "motor": "Yanmar 57CV",
+      "price": 310000,
+      "createdAt": "2026-09-27T19:47:37.738Z",
+      "updatedAt": "2026-09-27T19:47:37.738Z"
+    },
+    {
+      "_id": "6ab972e4b92d804f53226ad6",
+      "name": "Axopar 28 Cabin",
+      "year": 2023,
+      "model": "Axopar",
+      "motor": "Mercury Verado 300CV",
+      "price": 145000,
+      "createdAt": "2026-09-27T19:47:48.142Z",
+      "updatedAt": "2026-09-27T19:47:48.142Z"
+    },
+    {
+      "_id": "6ab972edb92d804f53226ad7",
+      "name": "Lavezzi 40 Fountaine Pajot",
+      "year": 2005,
+      "model": "Fountaine Pajot",
+      "motor": "Doble Volvo 30CV",
+      "price": 195000,
+      "createdAt": "2026-09-27T19:47:57.324Z",
+      "updatedAt": "2026-09-27T19:47:57.324Z"
+    },
+    {
+      "_id": "6ab972f6b92d804f53226ad8",
+      "name": "Princess F45",
+      "year": 2021,
+      "model": "F-Class",
+      "motor": "Doble IPS 600",
+      "price": 890000,
+      "createdAt": "2026-09-27T19:48:06.669Z",
+      "updatedAt": "2026-09-27T19:48:06.669Z"
+    },
+    {
+      "_id": "6ab97304b92d804f53226ad9",
+      "name": "Grand Soleil 44 Performance",
+      "year": 2022,
+      "model": "Performance",
+      "motor": "Volvo Penta 50CV",
+      "price": 420000,
+      "createdAt": "2026-09-27T19:48:20.940Z",
+      "updatedAt": "2026-09-27T19:48:20.940Z"
+    },
+    {
+      "_id": "6ab9730cb92d804f53226ada",
+      "name": "Jeanneau Merry Fisher 795",
+      "year": 2022,
+      "model": "Merry Fisher",
+      "motor": "Yamaha 200CV",
+      "price": 75000,
+      "createdAt": "2026-09-27T19:48:28.639Z",
+      "updatedAt": "2026-09-27T19:48:28.639Z"
+    },
+    {
+      "_id": "6ab97315b92d804f53226adb",
+      "name": "Lagoon 380",
+      "year": 2015,
+      "model": "Lagoon",
+      "motor": "Doble Yanmar 29CV",
+      "price": 275000,
+      "createdAt": "2026-09-27T19:48:37.168Z",
+      "updatedAt": "2026-09-27T19:48:37.168Z"
+    }
+  ]
+}
