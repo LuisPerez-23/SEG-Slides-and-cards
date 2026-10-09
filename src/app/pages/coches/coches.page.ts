@@ -2,11 +2,12 @@ import {ChangeDetectorRef, Component, inject, OnInit,CUSTOM_ELEMENTS_SCHEMA} fro
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import {
+  IonBadge,
   IonCard, IonCardContent,
   IonCardHeader, IonCardSubtitle, IonCardTitle,
   IonContent,
   IonHeader,
-  IonItem, IonItemOption,
+  IonItem, IonItemOption, IonItemOptions,
   IonItemSliding,
   IonTitle,
   IonToolbar
@@ -19,7 +20,7 @@ import {DataService} from "../../services/data";
   selector: 'app-coches',
   templateUrl: './coches.page.html',
   styleUrls: ['./coches.page.scss'],
-  imports: [IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, FormsModule, HeaderComponent, IonCard, IonItemSliding, IonItem, IonCardHeader, IonCardTitle, IonCardSubtitle, IonCardContent, IonItemOption],
+  imports: [IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, FormsModule, HeaderComponent, IonCard, IonItemSliding, IonItem, IonCardHeader, IonCardTitle, IonCardSubtitle, IonCardContent, IonItemOption, IonBadge, IonItemOptions],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class CochesPage implements OnInit {

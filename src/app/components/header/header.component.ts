@@ -1,5 +1,5 @@
 import {Component, model, ModelSignal, OnInit} from '@angular/core';
-import {IonHeader, IonTitle, IonToolbar} from "@ionic/angular";
+import {IonBackButton, IonButton, IonHeader, IonTitle, IonToolbar} from "@ionic/angular";
 
 @Component({
   selector: 'app-header',
@@ -8,7 +8,9 @@ import {IonHeader, IonTitle, IonToolbar} from "@ionic/angular";
   imports: [
     IonHeader,
     IonToolbar,
-    IonTitle
+    IonTitle,
+    IonBackButton,
+    IonButton
   ],
 })
 export class HeaderComponent  implements OnInit {
